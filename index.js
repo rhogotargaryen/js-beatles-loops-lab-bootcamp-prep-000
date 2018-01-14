@@ -19,7 +19,7 @@ function iLoveTheBeatles (x) {
   var y = [];
   do {
     y.unshift("I love the Beatles!");
-    x++;    
+    x++;
   }
   while (x < 15);
   return y
